@@ -1,5 +1,5 @@
 ## Oiii eu sou o Samuel Jonathan
-estou cursando Analise e Desenvolvimento de Sistemas,
+Estou cursando Analise e Desenvolvimento de Sistemas,
 Atuando como QA no LIGA/Facens
 <div align="center">
   <a href="https://github.com/SJCLS">
