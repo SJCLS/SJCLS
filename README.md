@@ -1,5 +1,4 @@
-
----
+--- 
 
 ## Bem-vindo ao meu perfil de QA!
 
@@ -17,15 +16,11 @@ Olá! Sou Samuel Jonathan, um Analista de QA no LIGA (Laboratório de Inovação
 
 ### Estatísticas do GitHub 📊
 
-### Estatísticas do GitHub 📊
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SJCLS&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=issues" alt="Estatísticas do GitHub" style="max-width: 100%; height: auto;">
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SJCLS&layout=compact&langs_count=8&theme=dark" alt="Linguagens mais usadas" style="max-width: 100%; height: auto;">
 </div>
-
-
 
 ### Vamos Conectar?
 📫 [LinkedIn](https://www.linkedin.com/in/samuel-jonathan-37752720a/) - Vamos trocar ideias e compartilhar conhecimento!
